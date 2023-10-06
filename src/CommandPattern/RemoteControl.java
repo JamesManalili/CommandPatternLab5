@@ -15,4 +15,5 @@ public class RemoteControl {
     public String clickButton(){
       return command.execute();
     }
+    //Manalili
 }

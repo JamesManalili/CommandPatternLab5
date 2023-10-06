@@ -10,4 +10,5 @@ public class PowerOn implements Command{
     public String execute() {
         return deviceOnOff.powerOn();
     }
+    //Manalili
 }

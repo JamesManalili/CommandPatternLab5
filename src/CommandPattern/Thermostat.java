@@ -24,4 +24,5 @@ public class Thermostat implements DeviceOnOff {
     public String powerOff() {
         return "Thermostat is switched-on";
     }
+    //Manalili
 }

@@ -34,6 +34,6 @@ public class MusicPlayer implements DeviceOnOff {
     public String powerOff() {
         return "Music player is switched-off";
     }
-
+    //Manalili
 
 }

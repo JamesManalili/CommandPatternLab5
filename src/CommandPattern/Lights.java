@@ -23,4 +23,5 @@ public class Lights implements DeviceOnOff {
     public String powerOff() {
         return "Light is switched-off";
     }
+    //Manalili
 }
